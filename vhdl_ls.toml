@@ -1,6 +1,0 @@
-[libraries]
-
-lib.files = [
-    "DecadeCounter.vhd",
-    "DecadeCounter_tb.vhd"
-]
